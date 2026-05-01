@@ -1,5 +1,4 @@
-[ai_studio_code.html](https://github.com/user-attachments/files/27280407/ai_studio_code.html)
-# vnplayer<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="ko">
 <head>
     <meta charset="UTF-8">
@@ -428,4 +427,4 @@
     }
 </script>
 </body>
-</html>
+</html>[ai_studio_code.html](https://github.com/user-attachments/files/27280441/ai_studio_code.html)
